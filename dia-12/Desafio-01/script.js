@@ -66,6 +66,9 @@ while(continuar) {
                 }
             }
         break;
+
+        case 4:
+            continuar = false
     }
 
     let desejaContinuar = prompt(`Deseja continuar? (s/n)`)
